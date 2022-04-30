@@ -1,0 +1,41 @@
+body {
+    font-family: "Special Elite", cursive;
+    background-image: url("a.jpg");
+    background-position: center;
+    background-size: cover;
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #output
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+}
+#result_gesture_name  
+{
+  font-size: 25px;
+  color: black;
+}
+.gesture_name
+{
+  font-size: 40px;
+}
+.gesture
+{
+  font-size:48px;
+}
+.heading{
+  border-radius:10px;
+  font-size:10px;
+  letter-spacing:10px;
+}
+label{
+  font-size:14px;
+  color:rgb(0, 255, 26);
+  padding:6px;
+  border-radius:10px;
+  background-color:white;
+}
